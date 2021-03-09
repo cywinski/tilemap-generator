@@ -11,6 +11,7 @@
 Project for PIPR (Computer Science and Programming Fundamentals) course at Warsaw University of Technology. This is my first ever programming project. Its purpose is to generate tile-maps with desired number of colors and size.
 Documentation of project is in `doc.pdf` file.
 
+Sample tile-map generated:
 
 ![Sample Image](https://github.com/bartooo/tilemap-generator/blob/main/images/sample-map.png)
 ## Getting Started <a name = "getting_started"></a>
